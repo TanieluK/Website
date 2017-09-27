@@ -1,9 +1,29 @@
+html
+
 h1{
-  color: red;
+  color: white;
+  font-size: 190;
+}
+h2{
+  color:red;
+  font-size: 120;
 }
 
+a{
+  color: blue;
+}
 body{
-  
   background-image: url("images/art.jpg");
+}
 
+html
+p1{
+  color: red;
+  font-size: 50;
+  : white;
+}
+div{
+  background-color: white;
+  border: 1px solid green;
+  opacity: 0.8;
 }
