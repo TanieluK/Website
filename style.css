@@ -1,9 +1,12 @@
 h1{
   color: red;
 }
-
+<head>
 body{
-  
-  background-image: url("images/art.jpg");
-
+  background-image: url("images/music.jpg");
+}
+div{
+  background-color: white;
+  height: 100px;
+  width: 300px;
 }
