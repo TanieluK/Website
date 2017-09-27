@@ -3,19 +3,22 @@ h1{
 }
 
 body{
-  background-image : url("images/music.jpg")
+  background-image : url("images/music.jpg");
+  background-size: cover;
 }
 
 
 div{
-  background-color: white;
   height: 100px;
-  width: 300px;
 }
 
 h2{
-  color: red;
+  color:red;
 }
 h3{
   color: yellow;
+}
+h4{
+  color: yellow;
+  font-size: 120px;
 }
